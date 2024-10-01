@@ -1,0 +1,193 @@
+Event Code,Week Number,Event Name,Team Count,City,State
+ARLI,2,Arkansas Regional,0,Searcy,AR
+AUSC,2,Southern Cross Regional,0,Cambridge Park,NSW
+AZFG,3,Arizona North Regional,0,Flagstaff,AZ
+AZGL,4,Arizona East Regional,0,Tempe,AZ
+BCVI,1,Canadian Pacific Regional,0,Vancouver,BC
+BRBA,3,Regional Brazil - Brasilia,0,TBD,DF
+BRSP,4,Regional Brazil - São Paulo,0,Vila Leopoldina,SP
+CAAV,6,Aerospace Valley Regional,0,Lancaster,CA
+CABE,6,East Bay Regional,0,Berkeley,CA
+CADA,4,Sacramento Regional,0,Elk Grove,CA
+CAFR,6,Central Valley Regional,0,Fresno,CA
+CALA,3,Los Angeles Regional,0,El Segundo,CA
+CAMB,1,Pinnacles Regional,0,Hollister,CA
+CAOC,1,Orange County Regional,0,Costa Mesa,CA
+CAPH,1,Hueneme Port Regional,0,Port Hueneme,CA
+CASD,4,San Diego Regional presented by Qualcomm,0,La Jolla,CA
+CASF,4,San Francisco Regional,0,San Francisco,CA
+CASJ,3,Silicon Valley Regional,0,Woodside,CA
+CAVE,2,Ventura County Regional,0,Port Hueneme,CA
+CHCMP,6,FIRST Chesapeake District Championship,0,Upper Marlboro,MD
+CNSH,3,Shanghai Regional,0,Minhang District,SH
+CODE,4,Colorado Regional,0,Denver,CO
+CTHAR,5,NE District Hartford Event,0,Hartford,CT
+CTWAT,2,NE District Waterbury Event,0,Waterbury,CT
+FLOR,4,Orlando Regional,0,Orlando,FL
+FLTA,3,Tallahassee Regional,0,Tallahassee,FL
+FLWP,6,South Florida Regional,0,Coral Gables,FL
+GAALB,5,PCH District Albany Event presented by Procter & Gamble,0,Albany,GA
+GACMP,6,Peachtree District Championship presented by Mercer University,0,Macon,GA
+GADAL,2,PCH District Dalton Event presented by Shaw Industries,0,Dalton,GA
+GAGAI,1,PCH District Gainesville Event,0,Gainesville,GA
+GAGWI,3,PCH District Gwinnett Event presented by Gwinnett County School System,0,Lawrenceville,GA
+GASTA,4,PCH District Statesboro Event,0,Statesboro,GA
+HIHO,4,Hawaii Regional,0,Honolulu,HI
+IACF,5,Iowa Regional,0,Cedar Falls,IA
+IDBO,5,Idaho Regional,0,Nampa,ID
+ILCH,5,Midwest Regional,0,TBD,IL
+ILPE,4,Central Illinois Regional,0,Peoria,IL
+INCMP,6,FIRST Indiana State Championship,0,Greenwood,IN
+INKOK,3,FIN District Kokomo Event,0,Russiaville,IN
+INLAF,4,FIN District Lafayette Event,0,Lafayette,IN
+INMIS,1,FIN District Mishawaka Event,0,Mishawaka,IN
+INWAS,5,FIN District Washington Event presented by Toyota Indiana and Vincennes University,0,Washington,IN
+ISCMP,5,FIRST Israel District Championship,0,TBD,JM
+ISDE1,1,ISR District Event #1,0,TBD,M
+ISDE2,1,ISR District Event #2,0,TBD,M
+ISDE3,3,ISR District Event #3,0,TBD,M
+ISDE4,3,ISR District Event #4,0,TBD,M
+KSLA,4,Heartland Regional,0,Shawnee,KS
+LAKE,6,Bayou Regional,0,Kenner,LA
+MABOS,2,NE District Greater Boston Event,0,Revere,MA
+MAWNE,3,NE District Western NE Event,0,Springfield,MA
+MAWOR,4,NE District WPI Event,0,Worcester,MA
+MDBET,3,CHS District Bethesda MD Event presented by Capital One,0,Bethesda,MD
+MDPAS,2,CHS District Pasadena MD Event presented by Ball Corp,0,Pasadena,MD
+MEFAL,1,NE District Southern Maine Event,0,Falmouth,ME
+MELEW,3,NE District Pine Tree Event,0,Lewiston,ME
+MIANN,1,FIM District Ann Arbor Event,0,Ann Arbor,MI
+MIBAT,1,FIM District Battle Creek Event,0,Battle Creek,MI
+MIBEL,3,FIM District Belleville Event,0,Belleville,MI
+MIBER,3,FIM District Berrien Springs Event,0,Berrien Springs,MI
+MIBIG,5,FIM District Ferris State Event,0,Big Rapids,MI
+MIBKN,3,FIM District Jackson at Columbia Event,0,Brooklyn,MI
+MIBRO,4,FIM District Woodhaven Event,0,Brownstown Charter Twp,MI
+MICMP,6,FIRST in Michigan State Championship,0,University Center,MI
+MICMP1,6,FIRST in Michigan State Championship - DTE Energy Foundation Division,0,University Center,MI
+MICMP2,6,FIRST in Michigan State Championship - Hemlock Semiconductor Division,0,University Center,MI
+MICMP3,6,FIRST in Michigan State Championship - Consumers Energy Division,0,University Center,MI
+MICMP4,6,FIRST in Michigan State Championship - Aptiv Division,0,University Center,MI
+MIDET,5,FIM District Renaissance Event,0,Detroit,MI
+MIDTR,3,FIM District Wayne State Event,0,Detroit,MI
+MIESC,2,FIM District Escanaba Event,0,Escanaba,MI
+MiFER,1,FIM District Ferndale Event,0,Ferndale,MI
+MIKE2,2,FIM District Kettering University Event #2,0,Flint,MI
+MIKEN,5,FIM District Kentwood Event,0,Kentwood,MI
+MIKET,1,FIM District Kettering University Event #1,0,Flint,MI
+MILAC,1,FIM District Lake City Event,0,Lake City,MI
+MILIV,5,FIM District Livonia Event,0,Livonia,MI
+MILSU,4,FIM District LSSU Event,0,Sault Ste. Marie,MI
+MIMAS,4,FIM District Mason Event,0,Mason,MI
+MIMCC,5,FIM District Macomb Event,0,Warren,MI
+MIMID,5,FIM District Midland Event,0,Midland,MI
+MIMIL,1,FIM District Milford Event,0,Highland,MI
+MIMUS,3,FIM District Muskegon Event,0,Muskegon,MI
+MISAL,4,FIM District Saline Event,0,Saline,MI
+MISJO,2,FIM District St. Joseph Event,0,St. Joseph,MI
+MITRY,4,FIM District Troy Event,0,Troy,MI
+MITVC,3,FIM District Traverse City Event,0,Traverse City,MI
+MIWMI,4,FIM District West Michigan Event,0,Allendale,MI
+MNDU,1,Lake Superior Regional,0,Duluth,MN
+MNDU2,1,Northern Lights Regional,0,Duluth,MN
+MNMI,5,Minnesota 10,000 Lakes Regional,0,Falcon Heights,MN
+MNMI2,6,Minnesota Granite City Regional,0,St. Cloud,MN
+MNUM,6,Minnesota North Star Regional,0,Minneapolis,MN
+MOKC,5,Greater Kansas City Regional,0,Riverside,MO
+MOSE,2,Central Missouri Regional,0,Sedalia,MO
+MOSL,3,St. Louis Regional,0,St. Louis,MO
+MRCMP,6,FIRST Mid-Atlantic District Championship,0,Bethlehem,PA
+MSLR,3,Magnolia Regional,0,Laurel,MS
+MXMO,1,Regional Monterrey presented by PrepaTec,0,Monterrey,MEX
+MXTO,4,Regional Laguna presented by Peñoles,0,Torreon,COA
+NCASH,3,FNC District UNC Asheville Event,0,Asheville,NC
+NCCAT,2,FNC District Catawba County Event,0,Hickory,NC
+NCCMP,6,FIRST North Carolina State Championship,0,Greensboro,NC
+NCGRE,4,FNC District Pitt County Event,0,Greenville,NC
+NCMEC,4,FNC District Mecklenburg County Event,0,Charlotte,NC
+NCPEM,5,FNC District UNC Pembroke Event,0,Pembroke,NC
+NCWAK,3,FNC District Wake County Event,0,TBD,NC
+NDGF,3,Great Northern Regional,0,Grand Forks,ND
+NECMP,6,New England FIRST District Championship,0,West Springfield,MA
+NECMP1,6,New England FIRST District Championship - Ganson Division,0,West Springfield,MA
+NECMP2,6,New England FIRST District Championship - Richardson Division,0,West Springfield,MA
+NHDUR,4,NE District UNH Event,0,Durham,NH
+NHSAL,1,NE District Granite State Event,0,Salem,NH
+NJFLA,2,FMA District Mount Olive Event,0,Flanders,NJ
+NJROB,3,FMA District Robbinsville Event,0,Trenton,NJ
+NJSKI,5,FMA District Montgomery Event,0,Skillman,NJ
+NJTAB,2,FMA District Seneca Event,0,Tabernacle,NJ
+NJWAS,4,FMA District Warren Hills Event,0,Washington,NJ
+NTWC,2,New Taipei City Regional,0,Wugu District,NWT
+NVLV,5,Las Vegas Regional,0,Las Vegas,NV
+NYLI2,4,FIRST Long Island Regional,0,Hempstead,NY
+NYNY,6,New York City Regional,0,New York,NY
+NYRO,3,Finger Lakes Regional,0,Rochester,NY
+NYSU,2,Hudson Valley Regional,0,Suffern,NY
+NYTR,5,New York Tech Valley Regional,0,Albany,NY
+OHCL,6,Buckeye Regional,0,Cleveland,OH
+OHMV,5,Miami Valley Regional,0,Cincinnati,OH
+OKOK,6,Oklahoma Regional,0,Shawnee,OK
+OKTU,4,Green Country Regional,0,Tulsa,OK
+ONBAR,3,ONT District Georgian College Event,0,Barrie,ON
+ONCMP,6,FIRST Ontario Provincial Championship,0,Mississauga,ON
+ONCMP1,6,FIRST Ontario Provincial Championship - Science Division,0,Mississauga,ON
+ONCMP2,6,FIRST Ontario Provincial Championship - Technology Division,0,Mississauga,ON
+ONHAM,5,ONT District McMaster University,0,Hamilton,ON
+ONNEW,1,ONT District Newmarket Event,0,Newmarket,ON
+ONNOB,4,ONT District North Bay Event,0,North Bay,ON
+ONOSH,3,ONT District Durham College Event,0,Oshawa,ON
+ONSCA,2,ONT District Centennial College Event,0,Scarborough,ON
+ONTOR,4,ONT District Humber Polytechnic Event,0,Etobicoke,ON
+ONWAT,4,ONT District University of Waterloo Event,0,Waterloo,ON
+ONWEL,2,ONT District Niagara College Event,0,Welland,ON
+ONWIN,5,ONT District University of Windsor Event,0,Windsor,ON
+ORORE,2,PNW District Clackamas Academy Event,0,Oregon City,OR
+ORSAL,1,PNW District Oregon State Fair Event,0,Salem,OR
+ORWIL,4,PNW District Wilsonville Event,0,Wilsonville,OR
+PABEN,4,FMA District Bensalem Event,0,Bensalem,PA
+PACA,4,Greater Pittsburgh Regional,0,Pittsburgh,PA
+PAHAT,1,FMA District Hatboro-Horsham Event,0,Horsham,PA
+PAPHI,3,FMA District Springside Chestnut Hill Event,0,Philadelphia,PA
+PAWAR,5,FMA District Centennial Event,0,Warminster,PA
+PNCMP,6,Pacific Northwest FIRST District Championship,0,Cheney,WA
+QCMO,2,Festival de Robotique Regional,0,Saint-Laurent,QC
+RIKIN,3,NE District URI Event,0,Kingston,RI
+SCCHA,4,FSC District North Charleston Event presented by South Carolina Department of Education,0,N. Charleston,SC
+SCCMP,6,FIRST South Carolina State Championship presented by Magna,0,Anderson,SC
+SCHAR,2,FSC District Hartsville Event,0,Hartsville,SC
+TNKN,6,Smoky Mountains Regional,0,Sevierville,TN
+TUAK,3,Ankara Regional,0,Çankaya,06
+TUHC,2,Haliç Regional,0,Bakırköy,34
+TUIS,2,İstanbul Regional,0,Bakırköy,34
+TUIS2,2,Bosphorus Regional,0,Bakırköy,34
+TUIS3,2,Marmara Regional,0,Bakırköy,34
+TXAMA,5,FIT District Amarillo Event,0,Amarillo,TX
+TXBEL,2,FIT District Belton Event,0,Belton,TX
+TXCLE,5,FIT District Space City @ Friendswood Event,0,Friendswood,TX
+TXCMP,6,FIRST In Texas District Championship,0,Houston,TX
+TXCMP1,6,FIRST In Texas District Championship - Mercury Division,0,Houston,TX
+TXCMP2,6,FIRST In Texas District Championship - Apollo Division,0,Houston,TX
+TXFOR,4,FIT District Fort Worth Event,0,Fort Worth,TX
+TXHOU,4,FIT District Houston Event,0,Houston,TX
+TXMAN,3,FIT District Manor Event,0,Manor,TX
+TXPLA,2,FIT District Plano Event,0,Plano,TX
+TXSAN,3,FIT District San Antonio Event,0,San Antonio,TX
+TXTOM,1,FIT District Tomball Event,0,Tomball,TX
+TXVIC,4,FIT District Victoria Event,0,Victoria,TX
+TXWAC,1,FIT District Waco Event,0,Waco,TX
+UTWV,3,Utah Regional,0,West Valley City,UT
+VAALE,4,CHS District Alexandria VA Event presented by US Department of Energy,0,Alexandria,VA
+VABLA,4,CHS District Blacksburg VA Event presented by Volvo,0,Blacksburg,VA
+VAGLE,1,CHS District Glen Allen VA Event presented by Dominion Energy,0,Glen Allen,VA
+VAPOR,2,CHS District Portsmouth VA Event presented by Newport News Shipyard,0,Portsmouth,VA
+VTBUR,5,NE District UVM Event,0,Burlington,VT
+WAAHS,4,PNW District Auburn Event,0,Auburn,WA
+WABON,3,PNW District Bonney Lake Event,0,Bonney Lake,WA
+WASAM,2,PNW District Sammamish Event,0,Bellevue,WA
+WASNO,1,PNW District Glacier Peak Event,0,Snohomish,WA
+WAYAK,3,PNW District SunDome Event,0,Yakima,WA
+WILA,4,Seven Rivers Regional,0,La Crosse,WI
+WIMI,6,Wisconsin Regional,0,West Allis,WI
+WIMU,5,Phantom Lakes Regional,0,Mukwonago,WI
+WIMU,5,Phantom Lakes Regional,0,Mukwonago,WI
